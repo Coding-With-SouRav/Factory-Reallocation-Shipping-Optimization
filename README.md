@@ -33,3 +33,6 @@ streamlit run app.py     # dashboard (trains in-memory on first load, ~10-60 s)
 - **Freight cost is a proxy** (`FREIGHT_COST_PER_UNIT_KM × km × units × ship-mode multiplier`, in `config.py`) – the dataset has no freight cost. Factory capacity and unit-cost differences are not modelled. Treat profit impact as directional and tune the assumptions.
 - Customer location uses state/province centroids (no customer coordinates in the data).
 - Confidence score (0–100) = 50% historical support (orders shipped from that factory into those regions) + 50% low Random-Forest tree disagreement. Scenarios with confidence < 40 or profit impact < −2% are flagged high-risk.
+
+## Demo URL to use
+https://factory-reallocation-shipping-optimization-ebuyjuhi3nebtg8pfdd.streamlit.app/
