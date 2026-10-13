@@ -1,0 +1,51 @@
+Product Name,Region,orders,units,avg_lead,congested
+Everlasting Gobstopper,Interior,1,3,1641.0,False
+Hair Toffee,Atlantic,1,5,1639.0,False
+SweeTARTS,Pacific,1,4,1638.0,False
+Hair Toffee,Gulf,1,2,1635.0,False
+Laffy Taffy,Atlantic,5,13,1493.2,False
+Lickable Wallpaper,Gulf,4,9,1455.75,False
+Fizzy Lifting Drinks,Atlantic,2,9,1455.5,False
+Lickable Wallpaper,Atlantic,19,43,1426.7368421052631,True
+SweeTARTS,Interior,3,11,1395.6666666666667,False
+Wonka Gum,Gulf,19,109,1369.4736842105262,True
+Wonka Bar - Nutty Crunch Surprise,Atlantic,490,1857,1360.426530612245,True
+SweeTARTS,Atlantic,5,24,1347.6,False
+Wonka Bar - Triple Dazzle Caramel,Pacific,676,2595,1332.1331360946745,True
+Wonka Bar - Milk Chocolate,Interior,499,1869,1331.9779559118238,False
+Wonka Bar -Scrumdiddlyumptious,Pacific,672,2468,1331.282738095238,False
+Wonka Bar -Scrumdiddlyumptious,Interior,459,1723,1329.9084967320262,False
+Wonka Bar - Nutty Crunch Surprise,Interior,452,1694,1329.8473451327434,False
+Wonka Bar - Triple Dazzle Caramel,Gulf,330,1223,1328.669696969697,False
+Wonka Bar - Milk Chocolate,Pacific,666,2706,1326.0240240240241,False
+Wonka Bar - Triple Dazzle Caramel,Atlantic,558,2086,1323.578853046595,False
+Wonka Bar - Nutty Crunch Surprise,Gulf,296,1088,1322.6148648648648,False
+Wonka Bar - Fudge Mallows,Atlantic,548,2008,1321.1715328467153,False
+Wonka Bar - Triple Dazzle Caramel,Interior,451,1692,1316.3348115299334,False
+Wonka Bar -Scrumdiddlyumptious,Gulf,310,1203,1314.5451612903225,False
+Wonka Bar - Fudge Mallows,Pacific,569,2229,1314.4340949033392,False
+Wonka Bar - Fudge Mallows,Interior,410,1595,1311.570731707317,False
+Kazookles,Pacific,30,105,1309.4666666666667,False
+Wonka Bar - Milk Chocolate,Atlantic,639,2336,1309.320813771518,False
+Wonka Bar -Scrumdiddlyumptious,Atlantic,623,2349,1305.370786516854,False
+Wonka Bar - Fudge Mallows,Gulf,291,1082,1304.5807560137457,False
+Wonka Bar - Nutty Crunch Surprise,Pacific,572,2116,1304.4458041958042,False
+Wonka Gum,Pacific,14,52,1298.357142857143,False
+Lickable Wallpaper,Pacific,16,38,1295.6875,False
+Wonka Bar - Milk Chocolate,Gulf,333,1356,1289.7327327327328,False
+Wonka Gum,Atlantic,24,146,1288.4583333333333,False
+Fun Dip,Atlantic,1,4,1275.0,False
+Fizzy Lifting Drinks,Pacific,1,3,1274.0,False
+Hair Toffee,Pacific,2,10,1273.5,False
+Fizzy Lifting Drinks,Interior,2,5,1273.5,False
+Nerds,Atlantic,2,7,1273.5,False
+Kazookles,Atlantic,37,149,1273.1081081081081,False
+Everlasting Gobstopper,Gulf,1,4,1273.0,False
+Wonka Gum,Interior,20,98,1272.8,False
+Fun Dip,Interior,1,3,1271.0,False
+Everlasting Gobstopper,Pacific,1,6,1270.0,False
+Kazookles,Gulf,18,78,1252.5,False
+Lickable Wallpaper,Interior,7,17,1221.5714285714287,False
+Kazookles,Interior,11,39,1206.6363636363637,False
+Laffy Taffy,Gulf,2,11,1092.0,False
+Fizzy Lifting Drinks,Gulf,1,4,909.0,False
